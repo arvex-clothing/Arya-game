@@ -1,0 +1,19 @@
+{
+  "name": "ARYA \u2014 Play Closer. Know More.",
+  "short_name": "ARYA",
+  "description": "Questions, secrets, and friendly chaos.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#100d19",
+  "theme_color": "#100d19",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
